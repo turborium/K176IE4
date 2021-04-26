@@ -14,4 +14,4 @@
 
 
 ## Трехразрядный счетчик на К176ИЕ4 со светодиодным индикатором
-![counter_led3](counter_led3.GIF)
+![counter_led3](counter_lcd3.GIF)
